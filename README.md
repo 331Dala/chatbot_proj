@@ -1,2 +1,4 @@
 # chatbot_proj
-A python machine learning chatbot.
+
+A python pytorch-chatbot.
+It based on intents.
