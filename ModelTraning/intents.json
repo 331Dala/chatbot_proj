@@ -18,6 +18,10 @@
   {"tag": "flask",
     "patterns": ["What is Flask?", "Do you know about Flask?", "Can you tell me something about Flask?", "Explain Flask to me!"],
     "responses": ["Flask is a Python web development framework, which is very simple and minimalistic."]
+  },
+  {"tag": "who",
+    "patterns": ["What is Dala?", "Do you know about Dala?", "Can you tell me something about Dala?", "Who is Dala?"],
+    "responses": ["Folks, Dala is a good guy, also a MLE."]
   }
 ]
 }
