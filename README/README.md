@@ -5,7 +5,7 @@ A python chatbot, based on intents.
 
 ## env
 here we use conda env.  
-if you need .myl contact me,or later I will upload it here.  
+conda environment.yml file already uploaded.
 python=3.10  
 
 ### package manager
